@@ -1,6 +1,6 @@
 # Welcome to Afferent Software 👋
 
-[![Afferent Software Logo](https://afferentsoftware.com/wp-content/uploads/2023/07/afferent-logo-website-1-1.png)](https://afferentsoftware.com/)
+[![Afferent Software Logo](https://aff-internal-alerting-branding.s3.us-east-2.amazonaws.com/afferent-software-on-dark-bg.png)](https://afferentsoftware.com/)
 
 We're thrilled to have you here! Afferent Software is a cutting-edge software development company dedicated to building long-lasting partnerships with our customers through intelligent, efficient, and high-quality professional services and products.
 
