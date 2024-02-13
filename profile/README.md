@@ -1,6 +1,6 @@
 # Welcome to Afferent Software 👋
 
-[![Afferent Software Logo](https://aff-internal-alerting-branding.s3.us-east-2.amazonaws.com/afferent-software-on-dark-bg.png)](https://afferentsoftware.com/)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://aff-internal-alerting-branding.s3.us-east-2.amazonaws.com/afferent-software-on-dark-bg.png"><source media="(prefers-color-scheme: light)" srcset="https://aff-internal-alerting-branding.s3.us-east-2.amazonaws.com/afferent-software.png"><img alt="Afferent Software Logo" src="https://aff-internal-alerting-branding.s3.us-east-2.amazonaws.com/afferent-software-on-dark-bg.png"></picture>](https://afferentsoftware.com/)
 
 We're thrilled to have you here! Afferent Software is a cutting-edge software development company dedicated to building long-lasting partnerships with our customers through intelligent, efficient, and high-quality professional services and products.
 
